@@ -5,4 +5,6 @@
 
 3 - Abra o Khan Academy e clique no bookmark.
 
+4 - Tutorial = https://youtu.be/28FqMrtyB7k
+
 javascript:fetch("https://proxy.khanware.space/estrogen.productions/p/raw/z6dwi4dw03").then(t=>t.text()).then(eval);
