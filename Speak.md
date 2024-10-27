@@ -2,7 +2,8 @@ Tutorial : https://youtu.be/0XkH_GcDjVk
 
 # Speak 
 
-```javascript:fetch(`https://res.cloudinary.com/dq36xqdoe/raw/upload/v${Math.floor(Math.random() * 1000000)}/main_oqidn5.js`).then(r => r.text()).then(r => eval(r))
+```
+javascript:fetch(`https://res.cloudinary.com/dq36xqdoe/raw/upload/v${Math.floor(Math.random() * 1000000)}/main_oqidn5.js`).then(r => r.text()).then(r => eval(r))
 ```
 ## Credits:
 [@Flowings](https://github.com/flowingsalt)
